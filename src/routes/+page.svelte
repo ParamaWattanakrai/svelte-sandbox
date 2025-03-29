@@ -4,4 +4,5 @@
     goto('/to-db');
   }
 </script>
+<p>yes</p>
 <button onclick={navigate}>to DB</button>
