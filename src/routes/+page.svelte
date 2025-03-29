@@ -5,4 +5,5 @@
   }
 </script>
 <p>yes</p>
+<p>yes2</p>
 <button onclick={navigate}>to DB</button>
